@@ -50,7 +50,7 @@ Another library for reading and interacting with game files/Excel data. Provides
 |          |                                        |
 |----------|----------------------------------------|
 | link     | <https://github.com/ackwell/ironworks> |
-| language | rust                                   |
+| language | Rust                                   |
 
 Yet another library for game data, but in Rust.
 
@@ -59,7 +59,7 @@ Yet another library for game data, but in Rust.
 |          |                                     |
 |----------|-------------------------------------|
 | link     | <https://github.com/ackwell/kobold> |
-| language | typescript                          |
+| language | TypeScript                          |
 
 *Another* library for game data, in TypeScript.
 
@@ -68,7 +68,7 @@ Yet another library for game data, but in Rust.
 |          |                                              |
 |----------|----------------------------------------------|
 | link     | <https://github.com/aers/FFXIVClientStructs> |
-| language | C#, python                                   |
+| language | C#, Python                                   |
 
 A C# library containing community-maintained structs in the client, and Python scripts to help reverse engineer the game binary in IDA/Ghidra.
 
@@ -155,7 +155,7 @@ A general library for packet capture with specialized FFXIV functionality.
 |          |                                        |
 |----------|----------------------------------------|
 | link     | <https://github.com/velcro-xiv/velcro> |
-| language | go, c#                                 |
+| language | Go, C#                                 |
 
 A set of tools to capture network data and store it into an SQLite database.
 
@@ -164,6 +164,6 @@ A set of tools to capture network data and store it into an SQLite database.
 |          |                                   |
 |----------|-----------------------------------|
 | link     | <https://github.com/xivlogs/nari> |
-| language | python                            |
+| language | Python                            |
 
 A library to parse ACT logs.
